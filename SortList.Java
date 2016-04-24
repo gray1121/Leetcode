@@ -1,3 +1,14 @@
+/**
+ * Definition for ListNode.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int val) {
+ *         this.val = val;
+ *         this.next = null;
+ *     }
+ * }
+ */ 
 // version 1: Merge Sort
 public class Solution {            
     private ListNode findMiddle(ListNode head) {
@@ -105,17 +116,6 @@ public class Solution {
     }
 }
 // version 3: Quick Sort 2
-/**
- * Definition for ListNode.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int val) {
- *         this.val = val;
- *         this.next = null;
- *     }
- * }
- */ 
 class Pair {
     public ListNode first, second; 
     public Pair(ListNode first, ListNode second) {
@@ -124,11 +124,6 @@ class Pair {
     }
 }
 public class Solution {
-    /**
-     * @param head: The head of linked list.
-     * @return: You should return the head of the sorted linked list,
-                    using constant space complexity.
-     */
     public ListNode sortList(ListNode head) {
         if (head == null || head.next == null) {
             return head;
