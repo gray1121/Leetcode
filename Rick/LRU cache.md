@@ -4,7 +4,7 @@ We can keep two separate data structures. A **HashMap with (Key,Pointer)** pairs
 
 For example, our doubly linked list can look like:
 
-    `least_recently_used  -> A <-> B <-> C <-> D <-> E <- most_recently_used`
+`least_recently_used  -> A <-> B <-> C <-> D <-> E <- most_recently_used`
 
 We need to keep a pointer to the LRU and MRU items. The entries' values will be stored in the list and when we we query the HashMap, we will get a pointer to the list. On get(), we need to put the item at the right-most side of the list. On put(key,value), if the cache is full, we need to remove the item at the left-most side of the list from both the list and the HashMap.
 
