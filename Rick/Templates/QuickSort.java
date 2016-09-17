@@ -34,6 +34,6 @@ public class Solution {
             } 
         }
         quickSort(A, start, right);
-        quickSort(A, left, right);
+        quickSort(A, left, end);
     }
 }
