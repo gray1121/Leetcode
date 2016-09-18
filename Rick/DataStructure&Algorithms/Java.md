@@ -87,7 +87,7 @@ class TreeNode{
 ### Depth first search
 ### Breadth first search
 
-1. Graph Node
+1.Graph Node
 
 ```java
 class GraphNode{
@@ -107,8 +107,7 @@ class GraphNode{
     }
 }
 ```
-
-2. Queue
+2.Queue
 
 ```java
 class Queue{
@@ -133,8 +132,7 @@ class Queue{
     }
 }
 ```
-
-3. BFS
+3.BFS
 
 ```java
 public class GraphTest{
