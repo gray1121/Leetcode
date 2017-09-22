@@ -1,6 +1,6 @@
 class Solution {
     // Solve it without division and in O(n)
-    // Not use set and only use mutiplication
+    // Not use set and only use multiplication
     // duplicate
     public int[] productExceptSelf(int[] nums) {
         int len = nums.length;
@@ -14,7 +14,7 @@ class Solution {
             output[i] = output[i - 1] * nums[i - 1];
         }
         // optimized the space to O(1)
-        int rightroduct = nums[len - 1];
+        int rightProduct = nums[len - 1];
         for (int i = len - 2; i >= 0; i--) {
             output[i] *= rightProduct;
             rightProduct *= nums[i];
