@@ -25,6 +25,7 @@ class Solution {
     public boolean increasingTriplet(int[] nums) {
         int small = Integer.MAX_VALUE, large = Integer.MAX_VALUE;
         for(int num : nums) {
+            // duplicate [1,1,2]
             if(num <= small) {
                 small = num;
             } else if(num <= large) {
