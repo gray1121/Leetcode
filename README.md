@@ -19,7 +19,7 @@
 - [x] 334	[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)  
 - [ ] 215	[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)  
 - [x] 380	[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) 
-- [ ] 48	[Rotate Image](https://leetcode.com/problems/rotate-image)  
+- [x] 48	[Rotate Image](https://leetcode.com/problems/rotate-image)  
 - [x] 253	[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)  
 - [ ] 240	[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)  
 - [ ] 300	[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)  
