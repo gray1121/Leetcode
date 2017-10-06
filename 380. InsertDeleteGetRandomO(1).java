@@ -7,6 +7,7 @@ class RandomizedSet {
     // use a dynamic data structure to store numbers
     ArrayList<Integer> list;
     // use a map to mark the index of every numbers
+    // if duplicate allowed, use Map<Integer, Set<Integer>>
     Map<Integer, Integer> map;
     Random rand = new Random();
     /** Initialize your data structure here. */
