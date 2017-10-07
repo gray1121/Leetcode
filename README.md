@@ -47,7 +47,7 @@
 - [x] 56	[Merge Intervals](https://leetcode.com/problems/merge-intervals)  
 - [x] 139	[Word Break](https://leetcode.com/problems/word-break)  
 - [ ] 236	[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)  
-- [ ] 55	[Jump Game](https://leetcode.com/problems/jump-game)  
+- [x] 55	[Jump Game](https://leetcode.com/problems/jump-game)  
 - [ ] 134	[Gas Station](https://leetcode.com/problems/gas-station)  
 - [ ] 227	[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)  
 - [ ] 148	[Sort List](https://leetcode.com/problems/sort-list)  
