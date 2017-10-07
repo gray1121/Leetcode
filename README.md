@@ -44,7 +44,7 @@
 - [ ] 207	[Course Schedule](https://leetcode.com/problems/course-schedule)  
 - [ ] 33	[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)  
 - [ ] 34	[Search for a Range](https://leetcode.com/problems/search-for-a-range)  
-- [ ] 56	[Merge Intervals](https://leetcode.com/problems/merge-intervals)  
+- [x] 56	[Merge Intervals](https://leetcode.com/problems/merge-intervals)  
 - [x] 139	[Word Break](https://leetcode.com/problems/word-break)  
 - [ ] 236	[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)  
 - [ ] 55	[Jump Game](https://leetcode.com/problems/jump-game)  
