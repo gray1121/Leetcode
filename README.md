@@ -64,7 +64,7 @@
 - [ ] 152	[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)  
 - [ ] 5	[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)  
 - [ ] 3	[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)  
-- [ ] 163	[Missing Ranges](https://leetcode.com/problems/missing-ranges)  
+- [x] 163	[Missing Ranges](https://leetcode.com/problems/missing-ranges)  
 - [ ] 98	[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)  
 - [ ] 179	[Largest Number](https://leetcode.com/problems/largest-number)  
 - [ ] 15	[3Sum](https://leetcode.com/problems/3sum)  
