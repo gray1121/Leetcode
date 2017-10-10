@@ -32,3 +32,20 @@ class Solution {
         return mostFar >= nums.length - 1;
     }
 }
+// get minimum number of jumps
+class Solution {
+    public int jump(int[] nums) {
+        int res = 0;
+        int end = 0, longest = 0;
+        // the last point does not need to jump
+        for (int i = 0; i < nums.length - 1; ++i) {
+            longest = Math.max(longest, i + nums[i]);
+            if (i == end) {
+                res++;
+                end = longest;
+            }
+            if (end > nums.length - 1) { return res; }
+        }
+        return res;
+    }
+}

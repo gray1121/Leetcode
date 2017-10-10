@@ -36,7 +36,7 @@
 - [ ] 277	[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity)  
 - [ ] 49	[Group Anagrams](https://leetcode.com/problems/group-anagrams)  
 - [ ] 103	[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)  
-- [ ] 200	[Number of Islands](https://leetcode.com/problems/number-of-islands)  
+- [x] 200	[Number of Islands](https://leetcode.com/problems/number-of-islands)  
 - [ ] 17	[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)  
 - [ ] 131	[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)  
 - [ ] 19	[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)  
