@@ -26,7 +26,7 @@
 - [ ] 75	[Sort Colors](https://leetcode.com/problems/sort-colors)  
 - [ ] 162	[Find Peak Element](https://leetcode.com/problems/find-peak-element)  
 - [ ] 279	[Perfect Squares](https://leetcode.com/problems/perfect-squares)  
-- [ ] 289	[Game of Life](https://leetcode.com/problems/game-of-life)  
+- [x] 289	[Game of Life](https://leetcode.com/problems/game-of-life)  
 - [ ] 116	[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)  
 - [ ] 11	[Container With Most Water](https://leetcode.com/problems/container-with-most-water)  
 - [ ] 285	[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst)  
